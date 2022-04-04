@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Love Shayari 2022</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="ads">"ca-app-pub-3940256099942544/6300978111"</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="daily">Airforce x group Book and solved papers 2021</string>
+    <string name="ok">Okey</string>
+    <string name="by">help@teknologyupdate.com</string>
+    <string name="ranjit">Developed by Ranjeet Singh</string>
+    <string name="v">Version 1.1.2</string>
+    <string name="v1">Disclaimer</string>
+    <string name="v2"> We do not own this book, neither created nor scanned. We just providing the links already available on internet. If any way it violates the law or has any issues then kindly contact us\n Email Us\nRddeveloper143@gmail.com.\n     Thank you.</string>
+    <string name="facebook_app_id">810077326544798</string>
+</resources>
